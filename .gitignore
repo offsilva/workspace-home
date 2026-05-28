@@ -1,0 +1,5 @@
+*.log
+vendor/
+.bundle/
+.DS_Store
+tmp/
